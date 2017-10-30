@@ -1,28 +1,7 @@
 # Yaffle
-Short description and motivation.
 
-## Usage
-How to use my plugin.
+Rails プラグイン作成入門
+https://railsguides.jp/plugins.html
 
-## Installation
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'yaffle'
-```
-
-And then execute:
-```bash
-$ bundle
-```
-
-Or install it yourself as:
-```bash
-$ gem install yaffle
-```
-
-## Contributing
-Contribution directions go here.
-
-## License
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+ドキュメント通りにやっても動きませんでした。下記サイトを参考にしました。
+https://qiita.com/hikaruna/items/3cc8bb873e925f2c5dd3
